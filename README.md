@@ -1,4 +1,4 @@
-# Hola-mundo-
-Mi primer repositorio de prueba
+# Hola mundo
+Mi primer repositorio
 Autor: Lucas
 Fecha: 2022/febrero/06
